@@ -1,0 +1,8 @@
+da = ["fuck"]
+
+[yui]
+t = 1
+c = "c"
+
+[yui.ct]
+sbYui = true

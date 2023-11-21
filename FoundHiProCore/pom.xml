@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns="http://maven.apache.org/POM/4.0.0"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>FoundHiPro</artifactId>
+        <groupId>net.mcpes.foundhipro</groupId>
+        <version>0.0.1-DEV</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>net.mcpes.foundhipro.core</groupId>
+    <artifactId>FoundHiProCore</artifactId>
+    <packaging>pom</packaging>
+    <version>0.0.1-DEV</version>
+
+    <description>FoundHiPro Core模块</description>
+    <modules>
+        <module>FHPCoreApplication</module>
+        <module>FHPCorePlugin</module>
+        <module>FHPDatabaseDriver</module>
+        <module>FHPCoreBase</module>
+    </modules>
+
+    <dependencies>
+        <dependency>
+            <groupId>net.mcpes.foundhipro.utils</groupId>
+            <artifactId>FoundHiProUtils</artifactId>
+            <version>0.0.1-DEV</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/org.apache.logging.log4j/log4j-core -->
+        <dependency>
+            <groupId>org.apache.logging.log4j</groupId>
+            <artifactId>log4j-core</artifactId>
+            <version>2.11.1</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/org.apache.logging.log4j/log4j-api -->
+        <dependency>
+            <groupId>org.apache.logging.log4j</groupId>
+            <artifactId>log4j-api</artifactId>
+            <version>2.11.1</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/io.netty/netty-all -->
+        <dependency>
+            <groupId>io.netty</groupId>
+            <artifactId>netty-all</artifactId>
+            <version>4.1.29.Final</version>
+        </dependency>
+    </dependencies>
+
+
+</project>

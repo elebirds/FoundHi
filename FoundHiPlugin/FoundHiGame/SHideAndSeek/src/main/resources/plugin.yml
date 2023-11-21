@@ -1,7 +1,0 @@
-name: HideAndSeek
-FoundHiVersion: "0.0.0"
-version: "1.0.0"
-api: ["1.0.0"]
-author: hhm
-description: "动物躲猫猫小游戏.jpg"
-main: net.mcpes.foundhi.plugin.game.has.HideAndSeek

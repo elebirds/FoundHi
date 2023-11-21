@@ -1,6 +1,0 @@
-name: FoundHi
-version: "1.0.0"
-api: ["1.0.0"]
-author: hhm
-description: FoundHi
-main: net.mcpes.foundhi.core.plugin.FoundHiPlugin

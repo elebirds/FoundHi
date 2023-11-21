@@ -1,6 +1,0 @@
-name: SNPC
-version: "1.0.0"
-api: ["1.0.0"]
-author: "hhm"
-description: "SNPC"
-main: net.mcpes.foundhi.plugin.currency.npc.SNonPlayerCharacter

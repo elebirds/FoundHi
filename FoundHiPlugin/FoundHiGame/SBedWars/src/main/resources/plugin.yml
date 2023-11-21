@@ -1,7 +1,0 @@
-name: SBedWars
-FoundHiVersion: "0.0.0"
-version: "0.2.2"
-api: ["1.0.0"]
-author: hhm
-description: "起床战争小游戏.jpg"
-main: net.mcpes.foundhi.plugin.game.bedwars.SBedWars
