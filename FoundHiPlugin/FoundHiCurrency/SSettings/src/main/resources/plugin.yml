@@ -1,0 +1,6 @@
+name: SSettings
+version: "1.0.0"
+api: ["1.0.0"]
+author: hhm
+description: SSettings
+main: net.mcpes.foundhi.plugin.currency.settings.SSettings

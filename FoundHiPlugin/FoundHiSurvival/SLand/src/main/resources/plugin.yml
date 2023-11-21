@@ -1,0 +1,6 @@
+name: SLand
+version: "1.0.0"
+api: ["1.0.0"]
+author: hhm
+description: SLand
+main: net.mcpes.foundhi.plugin.survival.land.SLand

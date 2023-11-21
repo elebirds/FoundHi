@@ -1,0 +1,7 @@
+name: HotPotato
+FoundHiVersion: "0.0.0"
+version: "0.1.0"
+api: ["1.0.0"]
+author: yui
+description: "烫手的山芋小游戏.jpg"
+main: net.mcpes.summit.yui.hotpotato.HotPotato

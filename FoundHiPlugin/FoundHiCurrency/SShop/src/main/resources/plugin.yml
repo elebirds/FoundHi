@@ -1,0 +1,6 @@
+name: SShop
+version: "1.0.0"
+api: ["1.0.0"]
+author: "Yui,hhm"
+description: SShop
+main: net.mcpes.foundhi.plugin.currency.shop.SShopMain

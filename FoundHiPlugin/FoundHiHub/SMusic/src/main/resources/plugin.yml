@@ -1,0 +1,7 @@
+name: SMusic
+version: "1.0.0"
+api: ["1.0.0"]
+author: hhm
+description: SMusic
+load: POSTWORLD
+main: net.mcpes.foundhi.plugin.hub.SMusic

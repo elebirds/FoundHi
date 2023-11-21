@@ -1,0 +1,16 @@
+name: SRPG
+main: net.mcpes.foundhi.plugin.rpg.rpg.RPGMain
+version: "1.0.0"
+api: ["1.0.0"]
+load: STARTUP
+author: Summit Yui
+
+permissions:
+  trading.command:
+    default: true
+  rpg.command:
+    default: op
+  role.command:
+    default: true
+  build.command:
+    default: true
